@@ -1,7 +1,7 @@
 # GestureRecognition_CNN
 "Problem Statement:
 
-Imagine you are working as a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
+You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
 
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
 
@@ -26,7 +26,7 @@ To get started with the model building process, you first need to get the data o
 
 In order to get the data on the storage, perform the following steps in order
 
-Dataset: https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL"
+## Dataset: https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL"
 
 "For analysing videos using neural networks, two types of architectures are used commonly. One is the standard CNN + RNN architecture in which you pass the images of a video through a CNN which extracts a feature vector for each image, and then pass the sequence of these feature vectors through an RNN. This is something you are already familiar with (in theory).
 
